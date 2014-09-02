@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  client: MyString
+  name: MyString
+  oh: MyString
+  pos: MyString
+  asin: MyString
+  sku: MyString
+
+two:
+  client: MyString
+  name: MyString
+  oh: MyString
+  pos: MyString
+  asin: MyString
+  sku: MyString
